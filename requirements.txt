@@ -9,3 +9,6 @@ jupyterlab==3.5.0
 seaborn==0.11.0
 #huggingface
 datasets==2.18.0
+# ml
+# ml
+scikit-learn==1.0.2
