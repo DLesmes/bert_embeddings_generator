@@ -10,5 +10,6 @@ seaborn==0.11.0
 #huggingface
 datasets==2.18.0
 # ml
-# ml
 scikit-learn==1.0.2
+torch==2.2.1
+transformers==4.38.2
