@@ -3,7 +3,7 @@ Repo for embed and classify texts 🫶
 
 To make the classification on this data set, we use as a features the 768 entires of the embbedings vectors on BERT (CLS tokens) that has the Sentence-level Representation. The [CLS] token is specifically pre-trained to capture the overall meaning of a sentence. Its embedding often serves as a good general-purpose representation of the input text. 
 
-This features try to predict the class of each category that they are labelled using a neuronal network with ywo hidden layers using pycham framework
+This features try to predict the class of each category that they are labelled using a neuronal network with two hidden layers using pytorch framework
 
 #### Notebooks
 
