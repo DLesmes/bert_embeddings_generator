@@ -1,4 +1,4 @@
-# Bert embeddings generator
+# BERT embeddings generator
 Repo for embed and classify texts 🫶
 
 To make the classification on this data set, we use as a features the 768 entires of the embbedings vectors on BERT (CLS tokens) that has the Sentence-level Representation. The [CLS] token is specifically pre-trained to capture the overall meaning of a sentence. Its embedding often serves as a good general-purpose representation of the input text. 
